@@ -9,12 +9,15 @@ This repository contains simple assembly language programs demonstrating arithme
 ## 🔧 Files & Descriptions
 
 ### `Add2_96bit_nums.s`
-Performs addition of two 96-bit integers using segment-wise 32-bit arithmetic.
+Performs the addition of two 96-bit integers using segment-wise 32-bit arithmetic.
 
 ### `subtract2_64bit_nums.s`
 Implements subtraction of two 64-bit numbers, managing borrow and underflow conditions.
 
-### `revsub_suresh.s`
+### `Simple_Addition.s`
+Performs the addition of two integers using the default arithmetic setting.
+
+### `revsub.s`
 An alternate approach to subtraction — possibly reverse subtraction, or authored by a contributor named Suresh.
 
 ---
